@@ -1,0 +1,7 @@
+.instancePreview {
+  width: 600px;
+  height: 400px;
+  display: block;
+  overflow: scroll;
+  position: relative;
+}
